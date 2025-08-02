@@ -28,6 +28,7 @@ Preparing DSA.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankurpandey27/DSA-PREP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ankurpandey27/DSA-PREP/tree/master/0027-remove-element) |
+| [0344-reverse-string](https://github.com/ankurpandey27/DSA-PREP/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
 | ------- |
@@ -36,4 +37,8 @@ Preparing DSA.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ankurpandey27/DSA-PREP/tree/master/0217-contains-duplicate) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/ankurpandey27/DSA-PREP/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
