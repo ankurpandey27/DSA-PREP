@@ -22,6 +22,7 @@ Preparing DSA.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankurpandey27/DSA-PREP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ankurpandey27/DSA-PREP/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/ankurpandey27/DSA-PREP/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankurpandey27/DSA-PREP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/ankurpandey27/DSA-PREP/tree/master/0217-contains-duplicate) |
 ## Two Pointers
@@ -29,6 +30,7 @@ Preparing DSA.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/ankurpandey27/DSA-PREP/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/ankurpandey27/DSA-PREP/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/ankurpandey27/DSA-PREP/tree/master/0088-merge-sorted-array) |
 | [0344-reverse-string](https://github.com/ankurpandey27/DSA-PREP/tree/master/0344-reverse-string) |
 ## Hash Table
 |  |
@@ -37,6 +39,7 @@ Preparing DSA.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ankurpandey27/DSA-PREP/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ankurpandey27/DSA-PREP/tree/master/0217-contains-duplicate) |
 ## String
 |  |
