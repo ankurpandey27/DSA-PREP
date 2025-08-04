@@ -8,10 +8,10 @@ var findMaxConsecutiveOnes = function(nums) {
     for(let i = 0; i < nums.length; i++){
         if(nums[i] == 1){
             currentCount++;
-        }else {
             maxOnes = Math.max(currentCount, maxOnes);
+        }else {
             currentCount = 0;
         }
     }
-    return Math.max(currentCount, maxOnes);
+    return maxOnes;
 };
