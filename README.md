@@ -13,6 +13,7 @@ Preparing DSA.
 | [0002-add-two-numbers](https://github.com/ankurpandey27/DSA-PREP/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ankurpandey27/DSA-PREP/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ankurpandey27/DSA-PREP/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/ankurpandey27/DSA-PREP/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
@@ -25,6 +26,7 @@ Preparing DSA.
 | [0088-merge-sorted-array](https://github.com/ankurpandey27/DSA-PREP/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankurpandey27/DSA-PREP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/ankurpandey27/DSA-PREP/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ankurpandey27/DSA-PREP/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/ankurpandey27/DSA-PREP/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/ankurpandey27/DSA-PREP/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
@@ -39,11 +41,13 @@ Preparing DSA.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/ankurpandey27/DSA-PREP/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ankurpandey27/DSA-PREP/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/ankurpandey27/DSA-PREP/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/ankurpandey27/DSA-PREP/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/ankurpandey27/DSA-PREP/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -52,4 +56,12 @@ Preparing DSA.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankurpandey27/DSA-PREP/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ankurpandey27/DSA-PREP/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/ankurpandey27/DSA-PREP/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
