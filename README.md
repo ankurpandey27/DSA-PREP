@@ -26,6 +26,7 @@ Preparing DSA.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankurpandey27/DSA-PREP/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/ankurpandey27/DSA-PREP/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/ankurpandey27/DSA-PREP/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/ankurpandey27/DSA-PREP/tree/master/0485-max-consecutive-ones) |
 ## Two Pointers
 |  |
 | ------- |
