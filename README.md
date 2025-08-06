@@ -53,6 +53,7 @@ Preparing DSA.
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/ankurpandey27/DSA-PREP/tree/master/0344-reverse-string) |
+| [1999-longer-contiguous-segments-of-ones-than-zeros](https://github.com/ankurpandey27/DSA-PREP/tree/master/1999-longer-contiguous-segments-of-ones-than-zeros) |
 ## Dynamic Programming
 |  |
 | ------- |
