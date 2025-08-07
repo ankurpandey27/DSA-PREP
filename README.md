@@ -13,11 +13,13 @@ Preparing DSA.
 | [0002-add-two-numbers](https://github.com/ankurpandey27/DSA-PREP/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/ankurpandey27/DSA-PREP/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/ankurpandey27/DSA-PREP/tree/master/0009-palindrome-number) |
+| [0231-power-of-two](https://github.com/ankurpandey27/DSA-PREP/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ankurpandey27/DSA-PREP/tree/master/0268-missing-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankurpandey27/DSA-PREP/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/ankurpandey27/DSA-PREP/tree/master/0231-power-of-two) |
 ## Array
 |  |
 | ------- |
@@ -66,5 +68,6 @@ Preparing DSA.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/ankurpandey27/DSA-PREP/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/ankurpandey27/DSA-PREP/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ankurpandey27/DSA-PREP/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
