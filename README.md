@@ -15,11 +15,13 @@ Preparing DSA.
 | [0009-palindrome-number](https://github.com/ankurpandey27/DSA-PREP/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/ankurpandey27/DSA-PREP/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ankurpandey27/DSA-PREP/tree/master/0268-missing-number) |
+| [1013-fibonacci-number](https://github.com/ankurpandey27/DSA-PREP/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankurpandey27/DSA-PREP/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/ankurpandey27/DSA-PREP/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/ankurpandey27/DSA-PREP/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
 | ------- |
@@ -60,6 +62,7 @@ Preparing DSA.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ankurpandey27/DSA-PREP/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [1013-fibonacci-number](https://github.com/ankurpandey27/DSA-PREP/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -70,4 +73,8 @@ Preparing DSA.
 | [0136-single-number](https://github.com/ankurpandey27/DSA-PREP/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/ankurpandey27/DSA-PREP/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ankurpandey27/DSA-PREP/tree/master/0268-missing-number) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/ankurpandey27/DSA-PREP/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
