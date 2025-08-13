@@ -15,12 +15,14 @@ Preparing DSA.
 | [0009-palindrome-number](https://github.com/ankurpandey27/DSA-PREP/tree/master/0009-palindrome-number) |
 | [0231-power-of-two](https://github.com/ankurpandey27/DSA-PREP/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/ankurpandey27/DSA-PREP/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/ankurpandey27/DSA-PREP/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/ankurpandey27/DSA-PREP/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankurpandey27/DSA-PREP/tree/master/0002-add-two-numbers) |
 | [0231-power-of-two](https://github.com/ankurpandey27/DSA-PREP/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/ankurpandey27/DSA-PREP/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/ankurpandey27/DSA-PREP/tree/master/1013-fibonacci-number) |
 ## Array
 |  |
