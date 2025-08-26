@@ -7,6 +7,7 @@ Preparing DSA.
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankurpandey27/DSA-PREP/tree/master/0002-add-two-numbers) |
+| [0838-design-linked-list](https://github.com/ankurpandey27/DSA-PREP/tree/master/0838-design-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -107,4 +108,8 @@ Preparing DSA.
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/ankurpandey27/DSA-PREP/tree/master/0948-sort-an-array) |
+## Design
+|  |
+| ------- |
+| [0838-design-linked-list](https://github.com/ankurpandey27/DSA-PREP/tree/master/0838-design-linked-list) |
 <!---LeetCode Topics End-->
