@@ -8,6 +8,7 @@ Preparing DSA.
 | ------- |
 | [0002-add-two-numbers](https://github.com/ankurpandey27/DSA-PREP/tree/master/0002-add-two-numbers) |
 | [0838-design-linked-list](https://github.com/ankurpandey27/DSA-PREP/tree/master/0838-design-linked-list) |
+| [0908-middle-of-the-linked-list](https://github.com/ankurpandey27/DSA-PREP/tree/master/0908-middle-of-the-linked-list) |
 ## Math
 |  |
 | ------- |
@@ -47,6 +48,7 @@ Preparing DSA.
 | [0088-merge-sorted-array](https://github.com/ankurpandey27/DSA-PREP/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/ankurpandey27/DSA-PREP/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ankurpandey27/DSA-PREP/tree/master/0344-reverse-string) |
+| [0908-middle-of-the-linked-list](https://github.com/ankurpandey27/DSA-PREP/tree/master/0908-middle-of-the-linked-list) |
 ## Hash Table
 |  |
 | ------- |
