@@ -9,6 +9,7 @@ Preparing DSA.
 | [0002-add-two-numbers](https://github.com/ankurpandey27/DSA-PREP/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/ankurpandey27/DSA-PREP/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/ankurpandey27/DSA-PREP/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/ankurpandey27/DSA-PREP/tree/master/0234-palindrome-linked-list) |
 | [0838-design-linked-list](https://github.com/ankurpandey27/DSA-PREP/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/ankurpandey27/DSA-PREP/tree/master/0908-middle-of-the-linked-list) |
 ## Math
@@ -27,6 +28,7 @@ Preparing DSA.
 | [0002-add-two-numbers](https://github.com/ankurpandey27/DSA-PREP/tree/master/0002-add-two-numbers) |
 | [0206-reverse-linked-list](https://github.com/ankurpandey27/DSA-PREP/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/ankurpandey27/DSA-PREP/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/ankurpandey27/DSA-PREP/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/ankurpandey27/DSA-PREP/tree/master/0326-power-of-three) |
 | [1013-fibonacci-number](https://github.com/ankurpandey27/DSA-PREP/tree/master/1013-fibonacci-number) |
 ## Array
@@ -50,6 +52,7 @@ Preparing DSA.
 | [0027-remove-element](https://github.com/ankurpandey27/DSA-PREP/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/ankurpandey27/DSA-PREP/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/ankurpandey27/DSA-PREP/tree/master/0141-linked-list-cycle) |
+| [0234-palindrome-linked-list](https://github.com/ankurpandey27/DSA-PREP/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/ankurpandey27/DSA-PREP/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ankurpandey27/DSA-PREP/tree/master/0344-reverse-string) |
 | [0908-middle-of-the-linked-list](https://github.com/ankurpandey27/DSA-PREP/tree/master/0908-middle-of-the-linked-list) |
@@ -119,4 +122,8 @@ Preparing DSA.
 |  |
 | ------- |
 | [0838-design-linked-list](https://github.com/ankurpandey27/DSA-PREP/tree/master/0838-design-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/ankurpandey27/DSA-PREP/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
